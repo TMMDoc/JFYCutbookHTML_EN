@@ -1,0 +1,6 @@
+TITLE=JFY Cut Online Help Manual 
+OUTDIR=../jfycutbookhtml-en 
+LOGO=img1/JFY.jpg,103,34 
+COPYRIGHT=Copyright "&copy"; 2025 by Jiangsu Jinfangyuan CNC Machine Co., Ltd  All rights reserved. 
+ATTRIBUTE=appName:JFY Cut 
+ATTRIBUTE=bendApp:{appName} 
