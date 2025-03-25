@@ -270,13 +270,13 @@
 
 .hljs-string,
 .hljs-doctag {
-  color: #d14
+  color: #d5090a
 }
 
 .hljs-title,
 .hljs-section,
 .hljs-selector-id {
-  color: #900;
+  color: #d5090a;
   font-weight: bold
 }
 
@@ -304,7 +304,7 @@
 
 .hljs-symbol,
 .hljs-bullet {
-  color: #990073
+  color: #d5090a
 }
 
 .hljs-built_in,
